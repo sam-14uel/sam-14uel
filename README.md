@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samuel Obinna Chimdi  
-**Software Developer | Future Founder of an AI Agency Startup**  
+**Software Developer | Future Founder of ChatATP**  
 🚀 Building scalable solutions, one line at a time.
 
 
